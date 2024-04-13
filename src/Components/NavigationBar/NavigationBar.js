@@ -16,11 +16,11 @@ const NavigationBar = () => {
               <Navbar.Toggle aria-controls="basic-navbar-nav" style={{ backgroundColor: 'lightgray' }} />
               <Navbar.Collapse id="basic-navbar-nav ">
                 <Nav className="mr-auto">
-                  <Nav.Link href="#home">Talent Finder</Nav.Link>&nbsp;&nbsp;&nbsp;
-                  <Nav.Link href="#about" >For Recruiters</Nav.Link>&nbsp;&nbsp;&nbsp;
-                  <Nav.Link href="#services"style={{ color:'#5C27C0',fontWeight:'bolder'  }}>For Employers</Nav.Link>&nbsp;&nbsp;&nbsp;
-                  <Nav.Link href="#services" >About Us</Nav.Link>&nbsp;&nbsp;&nbsp;
-                  <Nav.Link  href="#services" >Company</Nav.Link>&nbsp;&nbsp;&nbsp;
+                  <Nav.Link href="#TalentFinder">Talent Finder</Nav.Link>&nbsp;&nbsp;&nbsp;
+                  <Nav.Link href="#ForRecruiters" >For Recruiters</Nav.Link>&nbsp;&nbsp;&nbsp;
+                  <Nav.Link href="#ForEmployers"style={{ color:'#5C27C0',fontWeight:'bolder'  }}>For Employers</Nav.Link>&nbsp;&nbsp;&nbsp;
+                  <Nav.Link href="#About" >About Us</Nav.Link>&nbsp;&nbsp;&nbsp;
+                  <Nav.Link  href="#Company" >Company</Nav.Link>&nbsp;&nbsp;&nbsp;
 
                 </Nav>
               </Navbar.Collapse>
