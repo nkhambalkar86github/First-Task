@@ -48,7 +48,7 @@ const Questions = () => {
                             </div>
                         </div>
 
-                        <br />
+                        <br/>
 
                         <div class="card " style={{ width: "70%" }}>
                             <div class="card-body rounded-3" style={{ border: "2px solid #5C27C0" }}>
@@ -56,7 +56,7 @@ const Questions = () => {
                             </div>
                         </div>
 
-                        <br />
+                        <br/>
 
                         <div class="card " style={{ width: "70%" }}>
                             <div class="card-body rounded-3" style={{ border: "2px solid #5C27C0" }}>
@@ -64,7 +64,7 @@ const Questions = () => {
                             </div>
                         </div>
 
-                        <br />
+                        <br/>
 
                         <div class="card " style={{ width: "70%" }}>
                             <div class="card-body rounded-3 " style={{ border: "2px solid #5C27C0" }}>
@@ -72,7 +72,7 @@ const Questions = () => {
                             </div>
                         </div>
 
-                        <br />
+                        <br/>
 
                         <div class="card " style={{ width: "70%" }}>
                             <div class="card-body rounded-3" style={{ border: "2px solid #5C27C0" }}>

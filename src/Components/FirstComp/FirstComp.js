@@ -3,7 +3,7 @@ const FirstComp = () => {
     return (
         <div className="container" style={{backgroundColor:"#F6F6F6",position:'relative'}}>
             <div className="row">
-                <div className="col-6 ">
+                <div className="col-lg-6 col-sm-8 col-12">
                     <div className="mt-5">
                         <h1 style={{ color: '#5C27C0' }}><span style={{ fontWeight: 'bold' }}>Power Up Your Hiring</span><br />
                             with Rework .</h1>
@@ -24,7 +24,7 @@ const FirstComp = () => {
                     </div>
                 </div>
 
-                <div className="col-6">
+                <div className="col-lg-6 col-sm-8 col-12">
 
                     <div>
                         <img src="./Groupimg.png" alt="..." style={{ width: '100%' }}></img>

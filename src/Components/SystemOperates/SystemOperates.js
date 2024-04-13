@@ -10,8 +10,7 @@ const SystemOperates = () => {
 
             <div className="row">
 
-                <div className="col" >
-                    <div className="m-5" style={{display:'flex'}}>
+                <div className="col-lg-4 col-sm-8 col-12" >
 
                         <div className=""style={{backgroundColor:"#FFFFFF"}}>
                             <div className="p-2 m-4">
@@ -22,8 +21,10 @@ const SystemOperates = () => {
 
                             </div>
                         </div>
+                        </div>
 
 
+                        <div className="col-lg-4 col-sm-8 col-12" >
                         <div style={{backgroundColor:"#EFE5FF"}}>
                             <div className="p-2 m-4">
                             <h6 class="">Sign Up </h6>
@@ -36,19 +37,21 @@ const SystemOperates = () => {
 
                           </div>
                         </div>
+                        </div>
 
+
+                        <div className="col-lg-4 col-sm-8 col-12" >
 
                         <div style={{backgroundColor:"#FFFFFF"}}>
                             <div className="p-2 m-4">
                             <h6 class="me-4">Get Rewards    <img className="rounded " src="./Frame2.png" alt="..." /></h6>
                             </div>
                             <div>
-                            <p class="m-4">As soon as the candidate gets<br/> selected you get your benefits</p>
+                            <p class="m-5">As soon as the candidate gets<br/> selected you get your benefits</p>
 
                             </div>
                         </div>
 
-                    </div>
 
                 </div>
 

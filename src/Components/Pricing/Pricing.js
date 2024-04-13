@@ -6,7 +6,7 @@ export default function Pricing() {
       <div className='container pt-5 align-items-center  pb-5'>
         <div className='row'>
           <h1 className='text-center  mb-5' style={{ color: "#5C27C0" }}><span style={{ fontWeight: "bold" }}>Choose Your Simple,</span >Transparent Pricing</h1>
-          <div className='col-lg-4 col-sm-12 mb-4 pt-4'>
+          <div className='col-lg-4 col-sm-8  col-12 mb-4 pt-4'>
             <div className='card pb-3 rounded-3' style={{ boxShadow: "5px 5px 20px gray", backgroundColor: 'white' }}>
               <div className='card-body mt-3'>
                 <h4 className=' text-center  mb-3' style={{ color: "#5C27C0" }}>1 Month</h4>
@@ -28,7 +28,7 @@ export default function Pricing() {
               </div>
             </div>
           </div>
-          <div className='col-lg-4 col-sm-12 mb-4  pt-4'>
+          <div className='col-lg-4 col-sm-8  col-12 mb-4  pt-4'>
             <div className='card pb-3 rounded-3' style={{ boxShadow: "5px 5px 20px gray", backgroundColor: '#5C27C0' }}>
               <div className='card-header' style={{ backgroundColor: "orange", width: "130px", position: 'absolute', right: '0' }}>Most Popular</div>
               <div className='card-body mt-3'>
@@ -51,7 +51,7 @@ export default function Pricing() {
               </div>
             </div>
           </div>
-          <div className='col-lg-4 col-sm-12 mb-4  pt-4'>
+          <div className='col-lg-4 col-sm-8  col-12 mb-4  pt-4'>
             <div className='card pb-3 rounded-3' style={{ boxShadow: "5px 5px 20px gray", backgroundColor: 'white' }}>
               <div className='card-body mt-3'>
                 <h4 className=' text-center  mb-3' style={{ color: "#5C27C0" }}>6 Months</h4>

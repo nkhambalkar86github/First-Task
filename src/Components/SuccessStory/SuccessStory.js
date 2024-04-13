@@ -11,7 +11,7 @@ const SuccessStory = () => {
 
             <div className="row pt-5  "style={{justifyContent:'center'}} >
 
-                <div className="col-lg-4 col-sm-12 mb-3 " style={{alignItems:'end'}}>
+                <div className="col-lg-4 col-sm-8  col-12 mb-3 " style={{alignItems:'end'}}>
                         <div className="card mt-5 align-items-center  shadow-lg rounded-4" style={{ width: '80%' }}>
                             <img src="/unsplashmpdlxiig0p0-1@2x.png" className="card-img-top rounded-top-4" alt="google" />
                             <div className="card-body">
@@ -30,7 +30,7 @@ const SuccessStory = () => {
 
 
 
-                        <div className="col-lg-4 col-sm-12 mb-3 ">
+                        <div className="col-lg-4 col-sm-8  col-12 mb-3 ">
 
                         <div className="card mt-5 shadow-lg rounded-4" style={{ width: '80%' }}>
                             <img src="/unsplashmpdlxiig0p0@2x.png" className="card-img-top rounded-top-4" alt="mocrosoft" />
@@ -46,7 +46,7 @@ const SuccessStory = () => {
                         </div>
 
 
-                        <div className="col-lg-4 col-sm-12 mb-3 ">                          
+                        <div className="col-lg-4 col-sm-8  col-12 mb-3 ">                          
                         <div className="card mt-5 shadow-lg rounded-4" style={{ width: '80%' }}>
                             <img src="/unsplashmpdlxiig0p0-2@2x.png" className="card-img-top rounded-top-4" alt="amazone" />
                             <div className="card-body">
