@@ -1,7 +1,7 @@
 
 const FirstComp = () => {
     return (
-        <div className="container" style={{position:'relative'}}>
+        <div className="container" style={{backgroundColor:"#F6F6F6",position:'relative'}}>
             <div className="row">
                 <div className="col-6 ">
                     <div className="mt-5">
