@@ -2,16 +2,16 @@ const Questions = () => {
 
     return (
 
-        <div className="container align-items-center" style={{ textAlign: "-webkit-center",backgroundColor:"#F6F6F6" }}>
-            <div className="  mt-5 pb-4"  >
+        <div className="container align-items-center mb-4" style={{ textAlign: "-webkit-center",backgroundColor:"#F6F6F6" }}>
+            <div className="  mt-5 pt-5 pb-3"  >
                 <h1 style={{ color: "#5C27C0", fontWeight: "lighter" }}><span style={{ fontWeight: "bold" }}>Frequently asked</span> Questions</h1>
                 <p className="mt-4" >We have Compiled the most commonly asked question about our Platform for your information and<br /> to enhance your overall experience.</p>
             </div>
 
 
-            <div className="row">
+            <div className="row pb-5">
 
-                <div className="col mt-4">
+                <div className="col mt-4 pb-5">
 
                     <div className="mt-4" >
                         <div class="card" style={{ width: "70%" }}>
